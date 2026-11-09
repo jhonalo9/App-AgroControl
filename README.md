@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-Esta aplicación fue diseñada con la finalidad de ayudar a pequeños agricultores con el conteo de sus productos
+Esta aplicación fue diseñada con la finalidad de ayudar a pequeños agricultores con el conteo de sus productos que en este caso son papayas con una precisión mas sofisticada y flexible y fácil de usar  
