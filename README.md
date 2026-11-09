@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-Esta aplicación fue
+Esta aplicación fue diseñada con la finalidad de ayudar
